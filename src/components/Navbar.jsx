@@ -25,7 +25,7 @@ const Navbar = () => {
             <FaGithub/>
 
         </a>
-        <a href="https://www.linkedin.com/in/dheeraj-kumar-83891b270/"
+        <a href="https://www.instagram.com/dheeraj01_singh/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Instagram">
